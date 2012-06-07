@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Sockeye</Name>
+    <Assembly>C:\Dev\GitHub\dalefugier\Sockeye\bin\Debug\SockeyeServer.dll</Assembly>
+    <AddInId>31a356da-a567-49ac-832b-122b4ff81976</AddInId>
+    <FullClassName>SockeyeServer.SockeyeServerApp</FullClassName>
+    <VendorId>_RMA</VendorId>
+    <VendorDescription>Robert McNeel and Associates, www.rhino3d.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

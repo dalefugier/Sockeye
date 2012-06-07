@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SockeyeServer", "SockeyeServer\SockeyeServer.csproj", "{0B2BBEB7-527B-425C-9EAE-4CD6C1871A30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SockeyeCommon", "SockeyeCommon\SockeyeCommon.csproj", "{75B23A51-8C4A-4483-992E-36553FB3C0AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sockeye", "Sockeye\Sockeye.csproj", "{BC7F33FA-5CD8-47E9-A2EF-6A51F94C5A79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B2BBEB7-527B-425C-9EAE-4CD6C1871A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2BBEB7-527B-425C-9EAE-4CD6C1871A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2BBEB7-527B-425C-9EAE-4CD6C1871A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2BBEB7-527B-425C-9EAE-4CD6C1871A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B23A51-8C4A-4483-992E-36553FB3C0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B23A51-8C4A-4483-992E-36553FB3C0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B23A51-8C4A-4483-992E-36553FB3C0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B23A51-8C4A-4483-992E-36553FB3C0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC7F33FA-5CD8-47E9-A2EF-6A51F94C5A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7F33FA-5CD8-47E9-A2EF-6A51F94C5A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7F33FA-5CD8-47E9-A2EF-6A51F94C5A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7F33FA-5CD8-47E9-A2EF-6A51F94C5A79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
